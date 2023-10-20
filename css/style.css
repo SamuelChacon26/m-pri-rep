@@ -9,3 +9,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
     color: #ffffff;
 }    
+
+header{
+    background-color: blue;
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1000px;
+}
