@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: cornflowerblue;
+}
+h4{
+    color: darkgoldenrod;
+}
+h5{
+    color: darkmagenta;
+}
+h6{
+    color: darkolivegreen;
+}
+
+a{
+    color: chartreuse;
+}
+p{
+    color: coral;
+}
+p a{
+    color: hotpink;
+}
